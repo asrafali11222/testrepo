@@ -1,4 +1,0 @@
-hi
-sample text
-for github
-training
